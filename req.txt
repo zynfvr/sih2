@@ -1,0 +1,6 @@
+duckdb
+pandas
+chromadb
+langchain
+openai
+google-generativeai
